@@ -1,0 +1,8 @@
+ .slider-div .slick-slide:last-of-type  {
+    background-color: red;
+    /* height: 0px;
+    width: 0px; */
+    display: none !important; 
+
+} 
+
